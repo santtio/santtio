@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA6F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Davi+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Crio+software+sob+medida+para+neg%C3%B3cios;De+Belo+Horizonte+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA6F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Davi+%F0%9F%91%8B;Desenvolvedor+Backend;C%23+%C3%A9+minha+ferramenta+principal;De+Belo+Horizonte+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 </div>
 
@@ -8,12 +8,14 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full stack e curto transformar problema real de negócio em software que funciona de verdade — sem enrolação. Hoje foco bastante em construir **sistemas de gestão sob medida** para clínicas, estúdios de pilates e fisioterapia: agenda, financeiro, prontuário/evolução de pacientes, tudo pensado pra rodar liso no dia a dia de quem atende.
+Sou dev back-end com **3 anos de experiência** na área, atualmente na **ACT Digital**. Trabalho principalmente com **C#**, sempre focado em escrever código limpo, funcional e fácil de manter.
 
-- 🏥 Construindo sistemas de gestão para saúde e bem-estar (Pilates, Fisioterapia)
-- 🖥️ Apps desktop com **Tauri + React + TypeScript**
-- ☕ Estudando Java a fundo pra ampliar o arsenal
-- 🌱 Sempre com um projeto pessoal rodando pra treinar lógica e se divertir
+Tô terminando minha graduação em **Sistemas de Informação** e também sou **PCD** — o que me fez olhar com mais atenção pra **acessibilidade e inclusão** em tudo o que faço. Gosto de criar soluções que realmente ajudem as pessoas no dia a dia, aprender coisas novas e trocar ideia com quem também é apaixonado por tecnologia.
+
+- 💻 Dev Backend na **ACT Digital**, com foco em **C#**
+- 🎓 Finalizando a graduação em Sistemas de Informação
+- ♿ Sou PCD, e isso guia meu olhar pra acessibilidade e inclusão no que construo
+- 🩺 Nas horas vagas, construo sistemas sob medida pra clínicas e estúdios de pilates/fisioterapia
 - 📍 Belo Horizonte, Brasil
 
 <br />
@@ -21,7 +23,7 @@ Sou desenvolvedor full stack e curto transformar problema real de negócio em so
 ## 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,java,html,css,rust,nodejs,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,java,html,css,git,vscode&theme=dark" />
 </div>
 
 <br />
