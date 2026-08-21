@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA6F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Davi+%F0%9F%91%8B;Desenvolvedor+Backend;C%23+%C3%A9+minha+ferramenta+principal;De+Belo+Horizonte+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA6F7&center=true&vCenter=true&width=600&lines=E+a%C3%AD%2C+eu+sou+o+Davi+%F0%9F%91%8B;Programo+coisas+em+C%23;Sempre+aprendendo+algo+novo;De+Belo+Horizonte+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 </div>
 
 <br />
 
-## 🚀 Sobre mim
+## 👋 E aí, beleza?
 
-Sou dev back-end com **3 anos de experiência** na área, atualmente na **ACT Digital**. Trabalho principalmente com **C#**, sempre focado em escrever código limpo, funcional e fácil de manter.
+Sou dev back-end, curto **C#** e já tô nessa há uns 3 anos, hoje na **ACT Digital**. Gosto de código que funciona sem drama — limpo, direto e fácil de mexer depois (o "depois" sempre chega).
 
-Tô terminando minha graduação em **Sistemas de Informação** e também sou **PCD** — o que me fez olhar com mais atenção pra **acessibilidade e inclusão** em tudo o que faço. Gosto de criar soluções que realmente ajudem as pessoas no dia a dia, aprender coisas novas e trocar ideia com quem também é apaixonado por tecnologia.
+Também sou **PCD**, e isso mudou muito o jeito que eu penso o que eu construo: acessibilidade não é detalhe, é parte do produto. Curto resolver problema de verdade, aprender coisa nova e trocar ideia com quem também tá no corre da tecnologia.
 
-- 💻 Dev Backend na **ACT Digital**, com foco em **C#**
-- 🎓 Finalizando a graduação em Sistemas de Informação
-- ♿ Sou PCD, e isso guia meu olhar pra acessibilidade e inclusão no que construo
-- 🩺 Nas horas vagas, construo sistemas sob medida pra clínicas e estúdios de pilates/fisioterapia
-- 📍 Belo Horizonte, Brasil
+- 💻 Backend na **ACT Digital**, sempre no **C#**
+- 🎓 Terminando Sistemas de Informação (quase lá!)
+- ♿ Sou PCD e acessibilidade tá sempre no radar
+- 🩺 Nas horas vagas, monto sistema pra clínica e estúdio de pilates/fisio
+- 📍 BH, Brasil
 
 <br />
 
-## 🛠️ Stack
+## 🛠️ Na caixa de ferramentas
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,java,html,css,git,vscode&theme=dark" />
@@ -28,17 +28,17 @@ Tô terminando minha graduação em **Sistemas de Informação** e também sou *
 
 <br />
 
-## 💼 Projetos em destaque
+## 💼 Uns projetos que curto mostrar
 
-| Projeto | Descrição |
+| Projeto | O que é |
 |---|---|
-| 🧘 **Sistema de Gestão Pilates** | App desktop (Tauri + React + SQLite) para gestão completa de estúdio: clientes, agenda, financeiro e evolução de pacientes |
-| 🩺 **Landing Pages para Saúde** | Sites para profissionais de fisioterapia e pilates conquistarem pacientes online |
-| 🎮 **Flappy Bird** | Projeto em JS puro pra treinar lógica de programação de um jeito visual e divertido |
+| 🧘 **Sistema de Gestão Pilates** | App desktop (Tauri + React + SQLite) pra gerir estúdio inteiro: clientes, agenda, financeiro, evolução de paciente |
+| 🩺 **Landing Pages pra Saúde** | Sites pra fisio e pilates conseguirem mais paciente online |
+| 🎮 **Flappy Bird** | JS puro só pra treinar lógica de um jeito divertido |
 
 <br />
 
-## 📊 Estatísticas
+## 📊 Números
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=santtio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -49,6 +49,6 @@ Tô terminando minha graduação em **Sistemas de Informação** e também sou *
 
 <div align="center">
 
-📫 Bora trocar uma ideia sobre código, produto ou negócio? [Abre uma conversa aqui no GitHub](https://github.com/santtio) mesmo!
+📫 Bora trocar ideia sobre código, produto ou o que for? [Chama aqui mesmo no GitHub](https://github.com/santtio)!
 
 </div>
