@@ -35,20 +35,3 @@ Também sou **PCD**, e isso mudou muito o jeito que eu penso o que eu construo: 
 | 🧘 **Sistema de Gestão Pilates** | App desktop (Tauri + React + SQLite) pra gerir estúdio inteiro: clientes, agenda, financeiro, evolução de paciente |
 | 🩺 **Landing Pages pra Saúde** | Sites pra fisio e pilates conseguirem mais paciente online |
 | 🎮 **Flappy Bird** | JS puro só pra treinar lógica de um jeito divertido |
-
-<br />
-
-## 📊 Números
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=santtio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtio&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br />
-
-<div align="center">
-
-📫 Bora trocar ideia sobre código, produto ou o que for? [Chama aqui mesmo no GitHub](https://github.com/santtio)!
-
-</div>
