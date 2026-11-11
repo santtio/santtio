@@ -2,7 +2,7 @@
 
 Olá, meu nome é Davi Santiago, sou software developer na [ACT Digital](https://www.actdigital.com), alocado no [Banco Inter](https://www.bancointer.com.br), trabalhando com backend em C# e .NET e mensageria com Kafka.
 
-Sou de Belo Horizonte, estou terminando Sistemas de Informação e, como PCD, levo acessibilidade a sério em tudo que construo. Nas horas vagas desenvolvo sistemas para clínicas e estúdios de pilates e fisioterapia.
+Sou de Belo Horizonte, estou terminando Sistemas de Informação. 
 
 #### Tecnologias e ferramentas
 
